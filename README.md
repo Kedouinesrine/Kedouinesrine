@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kedouinesrine
 - 👀 I’m interested in computer seince and coding
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on coding and algorithm
+- 🌱 I’m currently learning coding and algorithms
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
